@@ -1,8 +1,5 @@
 INTRODUÇÃO
-1.1	O	QUE	É	ANGULAR	2
-1	INTRODUÇÃO 1
-Created in Master PDF Editor - Demo Version
-Created in Master PDF Editor - Demo Version
+
 O	 conhecimento	 desse	 framework	 do	 Google	 deixará	 você
 interado	 com	 tudo	 o	 que	 há	 de	 novo	 no	 mundo	 do
 desenvolvimento	web	e	mobile.
